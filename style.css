@@ -63,7 +63,7 @@ section{
     .input p{
         padding: 10px;
         width: 100%;
-        height: 100px;
+        height: auto;
         border: 1px solid var(--second-sh);
         border-radius: 5px;
     }
