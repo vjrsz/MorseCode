@@ -26,7 +26,7 @@ body{
 }
 main{
     display: grid;
-    grid-template-rows: 10% 10% 80%;
+    grid-template-rows: 10% 5% 85%;
     grid-template-columns: 100%;
     width: 50%;
     height: 80%;
@@ -47,6 +47,7 @@ section{
         font-size: 40px;
         letter-spacing: 10px;
         word-spacing: 5px;
+        cursor:default;
     }
         .title h1 span{
             font-size: 20px;
@@ -95,3 +96,14 @@ section{
             box-shadow: 0px 5px 5px var(--second-sh);
             transform: translateY(4px);
         }
+footer{
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+@media (max-width: 720px){
+    main, footer{
+        width: auto;
+    }
+}

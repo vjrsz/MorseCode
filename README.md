@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/screenshot.png">
+    <img src="./images/desktop.png">
 </div>
 <h1 align="center">Morse Code</h1>
 
@@ -12,6 +12,10 @@
  CSS3</p>
 <p><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 JS</p>
+
+### Screenshots
+<img src="./images/desktop.png">
+<img src="./images/mobile.png">
 
 <h2 align="center">by Valter Junior</h2>
 <p align="center">
