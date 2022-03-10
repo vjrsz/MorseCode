@@ -2,7 +2,11 @@
     <img src="./images/desktop.png">
 </div>
 <h1 align="center">Morse Code</h1>
-
+<div align="center">
+    <h3>
+        <a href="https://vjrsz.github.io/MorseCode/" target="_blank">Live</a>
+    </h3>
+</div>
 ## Built With
 ### Languages and Tools
 
@@ -20,7 +24,7 @@ JS</p>
 <h2 align="center">by Valter Junior</h2>
 <p align="center">
 <a href="https://www.instagram.com/vjrx._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/junior2105/">
+<a href="https://vjrsz.github.io/MorseCode/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="#">
